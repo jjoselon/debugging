@@ -24,7 +24,7 @@
     ]
 }
 ```
-2. Run javascript file witn `node` adding **`--inspect`** option (required to debugging)
+2. Run javascript file with `node` adding **`--inspect`** option (required to debugging)
 
 ```console
 node --inspect node_server.js [argumenst...]
