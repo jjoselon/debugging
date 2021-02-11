@@ -1,5 +1,5 @@
 [https://code.visualstudio.com/docs/editor/debugging](https://code.visualstudio.com/docs/editor/debugging)
-
+[https://code.visualstudio.com/docs/nodejs/nodejs-debugging#_attaching-to-nodejs](https://code.visualstudio.com/docs/nodejs/nodejs-debugging#_attaching-to-nodejs)
 # How debug node apps using Visual Studio Code
 
 1. Create an **attach** configuration in `launch.json` configuration file
