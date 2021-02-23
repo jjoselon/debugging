@@ -81,4 +81,6 @@
 }
 ```
 4. Open your python file and set the breakpoints you wish
-5. Press F5 in vs-code to start debugging selecting `Python: Current File (Integrated Terminal)` action
+5. Press F5 in vs-code to start debugging selecting `Python: Current File (Integrated Terminal)` action or Select your Python interpreter by clicking on the status bar
+
+![Drag Racing](https://raw.githubusercontent.com/microsoft/vscode-python/main/images/InterpreterSelectionZoom.gif)
