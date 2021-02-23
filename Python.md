@@ -1,4 +1,4 @@
-# How to debug python files on vs-code
+# How to debug python files on vs-code [Docs](https://code.visualstudio.com/docs/python/debugging)
 
 1. Install [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 2. Make sure you selected right **python interpreter path** in ">Select interpreter" section typing 'Ctrl+Shitp+P' in vs-code
