@@ -54,3 +54,6 @@ xdebug.remote_autostart = 1
 9. Set breakpoints in your php file, press `F5` in vs-code (make sure you selected "Listen for XDebug" action, vs-code toolbar tell you)
 10. XDebug listen requests and execute breakpoints configured
 11. Enjoy!
+
+## Install on windows
+> Above instructions can be used on windows too, additionally follow https://xdebug.org/docs/install#windows to install xdebug on windows
